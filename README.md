@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on in any junior project to expand my portfolio.
 - 📫 How to reach me Linkedin Profile: https://www.linkedin.com/in/jjcrl/
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+(https://github-profile-trophy.vercel.app/?username=jjcrl&row=1)]
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

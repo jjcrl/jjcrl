@@ -5,8 +5,7 @@
 - 📫 How to reach me Linkedin Profile: https://www.linkedin.com/in/jjcrl/
 
 
-[![Josephs's github stats](https://github-readme-stats.vercel.app/api?username=jjcrl&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+[![jjcrl's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jjcrl&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjcrl
-- 👀 I’m interested in Data Visualisation and Software Development.
-- 🌱 I’m currently learning JavaScript, Nodes.js, D3 and CSS
+- 👀 I’m interested in Software Development, Data and creative coding.
+- 🌱 I’m currently learning p5 procssing, data driven doucments and Node
 - 💞️ I’m looking to collaborate on in any junior project to expand my portfolio.
 - 📫 How to reach me Linkedin Profile: https://www.linkedin.com/in/jjcrl/
 

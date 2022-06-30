@@ -1,7 +1,7 @@
 ## 👋 Hi! ~
 
 ### 💡 I’m interested in Software Development, Data and creative coding.
-### 🧠 I’m currently learning p5 procssing, data driven doucments and Node
+### 🧠 Committed to life long learning
 ### 🌱 I’m always looking to collaborate and expand my portfolio.
 ### 🔔 How to reach me? Connnect at https://www.linkedin.com/in/jjcrl/ 
 

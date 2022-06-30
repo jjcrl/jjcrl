@@ -1,4 +1,4 @@
-## @jjcrl ~ Joseph Carroll 👋 Hi!
+## 👋 Hi! ~
 
 ### 💡 I’m interested in Software Development, Data and creative coding.
 ### 🧠 I’m currently learning p5 procssing, data driven doucments and Node

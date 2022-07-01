@@ -1,7 +1,7 @@
-## 👋 Hi! ~
+## 👋 Hi ~ 
 
 ### 💡 I’m interested in Software Development, Data and Creative Coding.
-### 🧠 Currently practising Javascript and Node.js, leanring D3 and p5.js
+### 🧠 Forever learning and growing.
 ### 🌱 I’m always looking to collaborate and expand my portfolio.
 ### 🔔 How to reach me? Connnect at https://www.linkedin.com/in/jjcrl/ 
 

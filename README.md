@@ -1,9 +1,8 @@
-## 👋 Hi ~ 
+## 👋 Hi ~ Im Joseph ,
 
-### 💡 I’m interested in Software Development, Data and Creative Coding.
-### 🧠 Forever learning and growing.
-### 🌱 I’m always looking to collaborate and expand my portfolio.
-### 🔔 How to reach me? Connnect at https://www.linkedin.com/in/jjcrl/ 
+### 💡 Software Development, Data && Creative Coding.
+### 🛠️ Building Online
+### 🔔 https://www.linkedin.com/in/jjcrl/ 
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

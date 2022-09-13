@@ -1,4 +1,4 @@
-## 👋 Hi ~ Im Joseph ,
+## 🎆
 
 ### 💡 Software Development, Data && Creative Coding.
 ### 🛠️ Building Online

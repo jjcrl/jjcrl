@@ -1,7 +1,7 @@
 ## 🎆
 
 ### 💡    Software Development Data && Creative Coding
-### 🛠️    Building online _ jsph.online _ 
+### 🛠️    Building online jsph.online 
 ### 🔗    hello@jsph.online
 
 <!---

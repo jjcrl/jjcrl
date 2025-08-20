@@ -1,8 +1,8 @@
 ## 🎆
 
-### 💡    Software Development, Data && Creative Coding
-### 🛠️    Building online
-### 🔗    hello@jsph.online
+### 💡    
+### 🛠️   
+### 🔗    
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
